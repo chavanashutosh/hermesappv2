@@ -1,0 +1,122 @@
+{
+    "auth|create_account_title": {
+        "en": "Sign up",
+        "en-GB": "Sign up"
+    },
+    "auth|locked_server_connection_failed_detail": {
+        "en": "Check your connection and try again. If it keeps happening, contact support.",
+        "en-GB": "Check your connection and try again. If it keeps happening, contact support."
+    },
+    "auth|locked_server_connection_failed_title": {
+        "en": "Can't connect right now",
+        "en-GB": "Can't connect right now"
+    },
+    "auth|locked_server_misconfigured_detail": {
+        "en": "Please contact support.",
+        "en-GB": "Please contact support."
+    },
+    "auth|locked_server_misconfigured_title": {
+        "en": "Something went wrong",
+        "en-GB": "Something went wrong"
+    },
+    "auth|locked_server_unavailable_detail": {
+        "en": "Check your internet connection and try again. If it keeps happening, contact support.",
+        "en-GB": "Check your internet connection and try again. If it keeps happening, contact support."
+    },
+    "auth|locked_server_unavailable_title": {
+        "en": "Hermes is unavailable",
+        "en-GB": "Hermes is unavailable"
+    },
+    "auth|autodiscovery_invalid_hs": {
+        "en": "Server URL does not appear to be valid for this app.",
+        "en-GB": "Server URL does not appear to be valid for this app."
+    },
+    "auth|incorrect_credentials_detail": {
+        "en": "You are signing in to %(hs)s.",
+        "en-GB": "You are signing in to %(hs)s."
+    },
+    "auth|reset_password_email_not_associated": {
+        "en": "Your email address does not appear to be associated with an account on this server.",
+        "en-GB": "Your email address does not appear to be associated with an account on this server."
+    },
+    "auth|server_picker_description": {
+        "en": "Your account is on the Hermes server. Contact support if you need a different server.",
+        "en-GB": "Your account is on the Hermes server. Contact support if you need a different server."
+    },
+    "auth|server_picker_description_matrix.org": {
+        "en": "Join the Hermes community",
+        "en-GB": "Join the Hermes community"
+    },
+    "auth|server_picker_explainer": {
+        "en": "Use the server provided by your organisation.",
+        "en-GB": "Use the server provided by your organisation."
+    },
+    "auth|server_picker_matrix.org": {
+        "en": "Hermes is the recommended way to connect to your community.",
+        "en-GB": "Hermes is the recommended way to connect to your community."
+    },
+    "bugreport|matrix_security_issue": {
+        "en": "For security issues affecting this service, contact your administrator.",
+        "en-GB": "For security issues affecting this service, contact your administrator."
+    },
+    "common|matrix": {
+        "en": "Hermes",
+        "en-GB": "Hermes"
+    },
+    "invite|unable_find_profiles_description_default": {
+        "en": "Unable to find profiles for the usernames listed below — would you like to invite them anyway?",
+        "en-GB": "Unable to find profiles for the usernames listed below — would you like to invite them anyway?"
+    },
+    "powered_by_matrix": {
+        "en": "Hermes",
+        "en-GB": "Hermes"
+    },
+    "powered_by_matrix_with_logo": {
+        "en": "Secure messaging with Hermes",
+        "en-GB": "Secure messaging with Hermes"
+    },
+    "room_settings|advanced|unfederated": {
+        "en": "This room is not accessible by remote servers",
+        "en-GB": "This room is not accessible by remote servers"
+    },
+    "service_worker_error|description": {
+        "en": "%(brand)s uses a service worker to load some authenticated media. Your browser does not support this, so some media may fail to load.",
+        "en-GB": "%(brand)s uses a service worker to load some authenticated media. Your browser does not support this, so some media may fail to load."
+    },
+    "settings|key_export_import|export_description_1": {
+        "en": "You can export encryption keys for messages in encrypted rooms to a local file. You can import that file into another Hermes session later so it can decrypt those messages.",
+        "en-GB": "You can export encryption keys for messages in encrypted rooms to a local file. You can import that file into another Hermes session later so it can decrypt those messages."
+    },
+    "settings|key_export_import|import_description_1": {
+        "en": "Import encryption keys you previously exported from another Hermes session. You will then be able to decrypt messages that the other session could decrypt.",
+        "en-GB": "Import encryption keys you previously exported from another Hermes session. You will then be able to decrypt messages that the other session could decrypt."
+    },
+    "settings|prompt_invite": {
+        "en": "Prompt before sending invites to potentially invalid usernames",
+        "en-GB": "Prompt before sending invites to potentially invalid usernames"
+    },
+    "settings|sessions|unverified_session_explainer_3": {
+        "en": "For best security and privacy, use Hermes clients that support encryption.",
+        "en-GB": "For best security and privacy, use Hermes clients that support encryption."
+    },
+    "settings|sidebar|metaspaces_video_rooms_description_invite_extension": {
+        "en": "In conferences you can invite people who do not have an account yet.",
+        "en-GB": "In conferences you can invite people who do not have an account yet."
+    },
+    "share|share_call_subtitle": {
+        "en": "Link for guests to join the call without signing in:",
+        "en-GB": "Link for guests to join the call without signing in:"
+    },
+    "spotlight|public_rooms|network_dropdown_selected_label": {
+        "en": "Show: public rooms",
+        "en-GB": "Show: public rooms"
+    },
+    "slash_command|query_not_found_phone_number": {
+        "en": "Unable to find a user for this phone number",
+        "en-GB": "Unable to find a user for this phone number"
+    },
+    "unsupported_server_description": {
+        "en": "This server is running an older protocol version. Ask your administrator to upgrade so %(brand)s works reliably.",
+        "en-GB": "This server is running an older protocol version. Ask your administrator to upgrade so %(brand)s works reliably."
+    }
+}
